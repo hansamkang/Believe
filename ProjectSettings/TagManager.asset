@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Wall
+  - Projectile
+  - Enemy
+  - EnemyAttack
+  - EnemyProjectileAttack
+  - EnemyServe
+  - EnemyBoss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 1
+  - name: background1
+    uniqueID: 1658142617
+    locked: 1
+  - name: background2
+    uniqueID: 2526632747
+    locked: 1
+  - name: background3
+    uniqueID: 2865177701
+    locked: 1
+  - name: player0
+    uniqueID: 3178830413
+    locked: 1
+  - name: player1
+    uniqueID: 1437975907
+    locked: 1
+  - name: player2
+    uniqueID: 3071139975
+    locked: 1
+  - name: player3
+    uniqueID: 97475377
+    locked: 1
+  - name: player4
+    uniqueID: 497343283
+    locked: 1
+  - name: player5
+    uniqueID: 1894380645
+    locked: 1
+  - name: nomal
+    uniqueID: 2534723065
+    locked: 1
+  - name: enemy0
+    uniqueID: 3979154915
+    locked: 0
+  - name: enemy1
+    uniqueID: 2623709827
+    locked: 0
+  - name: enemy2
+    uniqueID: 2981565977
+    locked: 0
+  - name: enemy3
+    uniqueID: 943474551
+    locked: 0
+  - name: enemy4
+    uniqueID: 1328370537
+    locked: 0
+  - name: enemy5
+    uniqueID: 624140747
+    locked: 0
+  - name: enemy6
+    uniqueID: 643516939
+    locked: 0
+  - name: enemy7
+    uniqueID: 1891142749
+    locked: 0
