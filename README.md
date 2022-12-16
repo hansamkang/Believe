@@ -5,6 +5,9 @@
 1인개발, 슈팅보스러쉬게임 Believe.
 주인공의 꿈속에서 나타나는 적을 무찌르세요.
 
+# Script로 바로가기
+https://github.com/hansamkang/Believe/tree/main/Assets/Scripts
+
 # Download
 https://play.google.com/store/apps/details?id=com.SpringWater.Believe
 
